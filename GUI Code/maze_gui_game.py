@@ -1,5 +1,3 @@
-s
-
 import config
 import turtle
 import random
